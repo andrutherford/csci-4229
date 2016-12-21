@@ -1,0 +1,14 @@
+Homework 3
+
+Andrew Rutherford
+CSCI4229/5229 Fall 2016
+Time taken to complete: ~6 hr
+
+Draw 3d objects: 5 houses of various sizes are drawn, situated along an intersection
+      
+
+Key bindings
+  a          Toggle axes
+  arrows     Change view angle
+  0          Reset view angle
+  ESC        Exit
